@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpeakMicTest</string>
+    <string name="pass">pass</string>
+    <string name="fail">fail</string>
+</resources>
